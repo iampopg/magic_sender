@@ -1,0 +1,6 @@
+cryptography
+pyarmor==8.4.4
+colorama
+pyfiglet
+requests
+tk

@@ -9,3 +9,4 @@ head to https://app.sms-magic.com/app/#/login to login to create an account (mak
 
 once you login, go to your cookies editor extenter to copy 2 cookies
 
+These tools are for educational and ethical use only. I do not support or condone any illegal activities. Users are solely responsible for any misuse, and I disclaim any liability for such actions.
